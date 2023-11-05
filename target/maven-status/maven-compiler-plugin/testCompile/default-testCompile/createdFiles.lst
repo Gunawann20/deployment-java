@@ -1,0 +1,4 @@
+org\binaracademy\challenge\Challenge6ApplicationTests.class
+org\binaracademy\challenge\service\impl\ProductServiceImplTest.class
+org\binaracademy\challenge\service\impl\MerchantServiceImplTest.class
+org\binaracademy\challenge\service\impl\UserServiceImplTest.class
